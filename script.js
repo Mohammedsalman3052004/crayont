@@ -54,8 +54,7 @@ tt.from(".q",{
     scroller:"body",
     start:"top 65%",
     end:"top 90%",
-    scrub:3,
-    markers:true
+    scrub:3
   },
   y:-50,
   opacity:0,
@@ -69,8 +68,7 @@ tt.from(".w",{
     scroller:"body",
     start:"top 65%",
     end:"top 90%",
-    scrub:3,
-    markers:true
+    scrub:3
   },
   y:-50,
   opacity:0,
@@ -87,8 +85,7 @@ qq.from(".asd",{
     scroller:"body",
     start:"top 65%",
     end:"top 90%",
-    scrub:3,
-    markers:true
+    scrub:3
   },
   y:-50,
   opacity:0,
@@ -102,8 +99,7 @@ qq.from(".asw",{
     scroller:"body",
     start:"top 65%",
     end:"top 90%",
-    scrub:3,
-    markers:true
+    scrub:3
   },
   y:-50,
   opacity:0,
