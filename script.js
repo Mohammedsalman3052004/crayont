@@ -46,3 +46,67 @@ body.addEventListener("mousemove",function(dets){
 })
 
 
+var tt = gsap.timeline();
+
+tt.from(".q",{
+  scrollTrigger:{
+    trigger:".q",
+    scroller:"body",
+    start:"top 65%",
+    end:"top 90%",
+    scrub:3,
+    markers:true
+  },
+  y:-50,
+  opacity:0,
+  stagger:0.5,
+  duration:0.7,
+})
+
+tt.from(".w",{
+  scrollTrigger:{
+    trigger:".w",
+    scroller:"body",
+    start:"top 65%",
+    end:"top 90%",
+    scrub:3,
+    markers:true
+  },
+  y:-50,
+  opacity:0,
+  stagger:0.5,
+  duration:0.7,
+})
+
+
+var qq = gsap.timeline();
+
+qq.from(".asd",{
+  scrollTrigger:{
+    trigger:".asd",
+    scroller:"body",
+    start:"top 65%",
+    end:"top 90%",
+    scrub:3,
+    markers:true
+  },
+  y:-50,
+  opacity:0,
+  stagger:0.5,
+  duration:0.7,
+})
+
+qq.from(".asw",{
+  scrollTrigger:{
+    trigger:".asw",
+    scroller:"body",
+    start:"top 65%",
+    end:"top 90%",
+    scrub:3,
+    markers:true
+  },
+  y:-50,
+  opacity:0,
+  stagger:0.5,
+  duration:0.7,
+})
