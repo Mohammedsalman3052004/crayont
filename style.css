@@ -327,6 +327,36 @@ html, body {
     width: 24vw;
     height: 47.8vh;
 }
+.box1{
+    background-image: url(images/clip.png);
+    object-fit: cover;
+    background-size: cover;
+}
+.box2{
+    background-image: url(images/pushnote.png);
+    object-fit: cover;
+    background-size: cover;
+}
+.box3{
+    background-image: url(images/sa.png);
+    object-fit: cover;
+    background-size: cover;
+}
+.box4{
+    background-image: url(images/uidero.png);
+    object-fit: cover;
+    background-size: cover;
+}
+.box5{
+    background-image: url(images/clip.png);
+    object-fit: cover;
+    background-size: cover;
+}
+.box6{
+    background-image: url(images/pushnote.png);
+    object-fit: cover;
+    background-size: cover;
+}
 .h3-heading{
     margin-top: 16px;
     width: 23rem;
